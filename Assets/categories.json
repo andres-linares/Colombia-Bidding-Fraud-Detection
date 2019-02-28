@@ -1,0 +1,28 @@
+[{
+	"category": "A",
+	"name": "Material Vivo Animal y Vegetal"
+},
+{
+	"category": "B",
+	"name": "Materias Primas"
+},
+{
+	"category": "C",
+	"name": "Maquinaria, Herramientas, Equipo Industrial y Vehículos"
+},
+{
+	"category": "D",
+	"name": "Componentes y Suministros"
+},
+{
+	"category": "E",
+	"name": "Productos de Uso Final"
+},
+{
+	"category": "F",
+	"name": "Servicios"
+},
+{
+	"category": "G",
+	"name": "Terrenos, Edificios, Estructuras y Vías"
+}]
